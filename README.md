@@ -18,11 +18,10 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-    <img style="width:600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickBm400&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8">
+    <img style="width:454px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickBm400&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickBm400&theme=dracula&hide_border=false"><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=RickBm400&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"><br>
 </p>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=RickBm400&theme=dracula&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=RickBm400&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 <p align="center">
