@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a full stack web developer <br>👯 I'd like to colaborate with big companies creating proyects with moderm technologie stacks<br>🌱 I’m currently learning backend development and improving my skills<br>💬 You can reach me via linkedin or email<br>⚡ Many projects had issues for run in different computers, thats why programers created docker
+🔭 I’m currently working as a web developer <br>👯 I'd like to colaborate with big companies creating proyects with moderm technologie stacks<br>🌱 I’m currently learning backend development and improving my skills<br>💬 You can reach me via linkedin or email<br>⚡ Many projects had issues for run in different computers, thats why programers created docker
 
 
 ## 🌐 Socials:
